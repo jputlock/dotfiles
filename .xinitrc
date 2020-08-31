@@ -1,3 +1,5 @@
-xset r rate 300 30
+xset r rate 200 40
+
+picom &
 
 exec i3
